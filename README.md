@@ -1,2 +1,2 @@
-# open_source_tools_for_data_science
-Open sources tools for Data Science
+# Open source tools for Data Science
+This Jupyter Notebook collects the languages and libraries used in Data Science.
